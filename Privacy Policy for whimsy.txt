@@ -1,0 +1,94 @@
+Privacy Policy for whimsy
+
+Last Updated: June 10, 2025 (or current date)
+
+This Privacy Policy describes how whimsy ("the App," "we," "us," or "our") collects, uses, and discloses information when you use our mobile application.
+
+1. Information We Collect
+
+whimsy is built with privacy in mind. We aim to collect minimal data necessary for app functionality, improvement, and stability.
+
+a. Information You Directly Provide:
+
+Hobby and Project Data: We collect the names, descriptions, colors, and time tracking data (start/stop times, durations) for the hobbies and projects you create within the App. This data is stored locally on your device and is collected using Google Firebase Analytics.
+
+b. Automatically Collected Information:
+
+Usage Data (Optional): If you enable "Collect Usage Data" in the App's settings, we may collect anonymous, aggregated usage statistics through Google Firebase Analytics. This includes:
+
+App usage patterns (e.g., features accessed, button clicks, screen views, time spent in app).
+
+Device information (e.g., Android version, device model, app version).
+
+Anonymous user ID (a randomly generated ID that does not identify you personally; it is used to avoid duplicated data).
+This data helps us understand how the App is used, identify popular features, and guide future development. This data is anonymized and not linked to your personal identity.
+
+Crash Reports (Optional): If you enable "Auto-Send Crash Logs" in the App's settings, we collect anonymous crash data through Google Firebase Crashlytics when the App crashes or encounters non-fatal errors. This data includes:
+
+Crash stack traces and error details.
+
+Device and operating system information (e.g., Android version, device model).
+
+Anonymous user ID (the same randomly generated ID used for analytics).
+This data is essential for identifying and fixing bugs to improve app stability. This data is anonymized and not linked to your personal identity.
+
+Last Active Timestamp: We store a local timestamp of your last active session in your device's private storage. This is used solely to determine if you have been inactive for a week to trigger a reminder notification and is not sent to our servers.
+
+2. How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+To Provide App Functionality: Your hobby and project data is used to store and display your time tracking information within the App.
+
+App Improvement and Development (if enabled): Anonymous usage data helps us understand user behavior, prioritize features, and enhance the overall user experience.
+
+Bug Fixing and Stability (if enabled): Anonymous crash reports enable us to diagnose and resolve software issues, making the App more reliable.
+
+Reminder Notifications (if enabled): The last active timestamp is used locally to send notifications reminding you to use the App if you've been inactive.
+
+Data Import/Export: We provide features to export your local data to a JSON file on your device and import data from such a file. This is handled entirely on your device, and no data is transmitted to our servers during these operations.
+
+3. How Your Information is Stored and Protected
+
+Local Storage: All your personal hobby and project data (names, times, descriptions) is stored locally on your device in a private application directory. It is not uploaded to our servers or any cloud service unless you explicitly use a third-party service (e.g., cloud storage for exported files) via your device's sharing capabilities.
+
+Firebase Services:
+
+Anonymous usage data and crash reports (if enabled) are sent to Google Firebase servers. Google's privacy policy (available on their website) governs how they handle this data. This data is aggregated and anonymized, meaning it cannot be used to personally identify you.
+
+We use a randomly generated anonymous user ID for Firebase Analytics and Crashlytics. This ID is consistent for your device but does not reveal your real-world identity.
+
+Security: We take reasonable measures to protect the information collected through the App. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
+
+4. Your Choices and Controls
+
+We respect your privacy choices:
+
+Data Collection Toggles:
+
+You can enable or disable "Auto-Send Crash Logs" at any time in the App's settings.
+
+You can enable or disable "Collect Usage Data" at any time in the App's settings.
+Your choices are saved locally on your device and respected by the App.
+
+Data Export/Import: You have full control over your local data through the export and import features in the App's settings.
+
+Deleting App Data: You can clear all your local app data by uninstalling the App or by clearing its data through your device's system settings. Be aware that this will permanently delete all your stored hobbies, projects, and time sessions unless you have exported them.
+
+Notifications: You can manage reminder notifications through your device's system settings for the App.
+
+5. Children's Privacy
+
+whimsy is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly delete it.
+
+6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on a dedicated page accessible via the App. You are advised to review this Privacy Policy periodically for any changes.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+dev@calebhoulding.com
+
+Caleb Houlding
